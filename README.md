@@ -1,8 +1,6 @@
 
 # 📁 File Integrity Monitoring System
 
-**Version:** 1.0
-
 **Name:** Shashikant Patel
 
 **Company:** CODETECH PVT.LTD
